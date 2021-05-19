@@ -1,14 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Run Project
+## Available Scripts
 
-### Open terminal and clone source: git clone https://github.com/QNhatCNTT/mycoinwallet.git
+In the project directory, you can run:
 
-### cd mycoinwallet
-
-### npm i
-
-### npm start
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
