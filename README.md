@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Run project
 
 ```sh
-git clone https://github.com/QNhatCNTT/mycoinwallet
+git clone https://github.com/QNhatCNTT/mycoinwallet.git
 cd mycoinwallet
 npm install
 npm start
